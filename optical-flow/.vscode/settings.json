@@ -1,0 +1,5 @@
+{
+    "debug.terminal.clearBeforeReusing": true,
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "python.analysis.autoFormatStrings": true
+}
